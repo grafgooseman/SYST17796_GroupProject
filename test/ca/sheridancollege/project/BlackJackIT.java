@@ -1,7 +1,8 @@
 package ca.sheridancollege.project;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
+import org.junit.Test;
+
 
 /**
  * @author Artem
